@@ -2,6 +2,7 @@
 node_modules/
 dist/
 .vite/
+.build/
 
 # 日志与系统文件
 *.log
